@@ -1,1 +1,2 @@
 # Classification-des-feuilles-d-arbres
+L'objectif de ce projet est d'utiliser des images de feuilles et des caractéristiques extraites, y compris la forme, la marge et la texture, pour identifier avec précision 99 espèces de plantes. Les feuilles, en raison de leur volume, de leur prévalence et de leurs caractéristiques uniques, sont un moyen efficace de différencier les espèces végétales. Ils fournissent également une introduction amusante à l'application de techniques qui impliquent des fonctionnalités basées sur l'image.
